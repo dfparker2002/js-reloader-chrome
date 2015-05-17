@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-	"name": "JS Reloader",
-	"version": "1.0.0",
-	"description": "JS Reloader is a browser extension, that allows you to reload JS without reloading the page itself.",
+	"name": "JS (JavaScript) Reloader",
+	"version": "1.0.1",
+	"description": "JS (JavaScript) Reloader is a browser extension, that allows you to reload JavaScript without reloading the page itself.",
 
   "options_page" : "options.htm",
   "background": {
