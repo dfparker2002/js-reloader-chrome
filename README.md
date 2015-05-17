@@ -1,6 +1,6 @@
-= JS Reloader
+= JS (Javascript) Reloader
 
-JS Reloader is a browser extension that allows you to reload JS without reloading the page itself.
+JS (Javascript) Reloader is a browser extension that allows you to reload JS without reloading the page itself. It reloads all <script> tags on page. It does NOT effect in-line script.
 
 It's currently available for Google Chrome
 
@@ -12,11 +12,11 @@ One may customize the keyboard shortcut under the extensions settings page.
 
 
 === Google Chrome
-Grab the latests version for Chrome at https://chrome.google.com/extensions/detail/dnfpcpfijpdhabaoieccoclghgplmpbd 
+Grab the latest version for Chrome at https://chrome.google.com/webstore/detail/js-reloader/gpmblpbhjcdbhgcekpfkdfpglplmhffo
 
 == Limitations
 
-JS Reloader does not reload inline script.
+JS (JavaScript) Reloader does not reload inline script.
 
 Beware that reloading script will not update every object already loaded. One may run into interesting issues where old versions of functions are used (i.e. as callbacks/closures/exisitng objects). 
 –  Alexei Levenkov Mar 12 '11 at 22:01
