@@ -1,2 +1,0 @@
-ICON: https://www.iconfinder.com/icons/104117/refresh_reload_icon#size=256
-Original inspiration for extension, Kenneth Auchenberg's css-reloader-chrome project; https://github.com/auchenberg/css-reloader-chrome
